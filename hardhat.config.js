@@ -23,6 +23,9 @@ module.exports = {
         hardhat: {
             chainId: 31337,
             // gasPrice: 130000000000,
+            // subscriptionId: "588",
+            // interval: "30",
+            // callbackGasLimit: "500000",
         },
         rinkeby: {
             url: RINKEBY_RPC_URL,
